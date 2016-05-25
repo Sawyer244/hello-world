@@ -1,2 +1,4 @@
 # hello-world
-Just another reposerty
+Just another repository
+
+I like to code.
